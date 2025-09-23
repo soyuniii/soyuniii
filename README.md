@@ -17,13 +17,6 @@
 </p>
 
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Level-15-ff9fc4?style=for-the-badge&logoColor=white&labelColor=ffb3d9" />
-  <img src="https://img.shields.io/badge/HP-♥♥♥♥♡-ff80bf?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/EXP-3420%2F5000-ff66b3?style=for-the-badge" />
-</p>
-
-
 
 <p align="center">
   <img src="https://img.shields.io/badge/javascript-FFD93D?style=for-the-badge&logo=javascript&logoColor=black"/>
