@@ -1,12 +1,12 @@
 <!-- README.md -->
 
 <div align="center">
-<img src="https://github.com/user-attachments/assets/b9448e77-71ad-4e6b-a387-618f1cf171de" alt="star" width="100"/>
-<img src="https://github.com/user-attachments/assets/b9448e77-71ad-4e6b-a387-618f1cf171de" alt="star" width="100"/>
-<img src="https://github.com/user-attachments/assets/b9448e77-71ad-4e6b-a387-618f1cf171de" alt="star" width="100"/>
-<img src="https://github.com/user-attachments/assets/a13276b0-272b-4de5-b1e0-2f2a4f7fe915" alt="kurby" width="300"/>
-<img src="https://github.com/user-attachments/assets/b9448e77-71ad-4e6b-a387-618f1cf171de" alt="star" width="100"/>
-<img src="https://github.com/user-attachments/assets/b9448e77-71ad-4e6b-a387-618f1cf171de" alt="star" width="100"/>
+<img src="https://github.com/user-attachments/assets/b9448e77-71ad-4e6b-a387-618f1cf171de" alt="star" width="50"/>
+<img src="https://github.com/user-attachments/assets/b9448e77-71ad-4e6b-a387-618f1cf171de" alt="star" width="80"/>
+<img src="https://github.com/user-attachments/assets/b9448e77-71ad-4e6b-a387-618f1cf171de" alt="star" width="50"/>
+<img src="https://github.com/user-attachments/assets/a13276b0-272b-4de5-b1e0-2f2a4f7fe915" alt="kurby" width="200"/>
+<img src="https://github.com/user-attachments/assets/b9448e77-71ad-4e6b-a387-618f1cf171de" alt="star" width="50"/>
+<img src="https://github.com/user-attachments/assets/b9448e77-71ad-4e6b-a387-618f1cf171de" alt="star" width="80"/>
 </div>
 
 
