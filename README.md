@@ -1,20 +1,8 @@
 <!-- README.md -->
 
 <div align="center">
-<img src="https://github.com/user-attachments/assets/b9448e77-71ad-4e6b-a387-618f1cf171de" alt="star" width="50"/>
-<img src="https://github.com/user-attachments/assets/b9448e77-71ad-4e6b-a387-618f1cf171de" alt="star" width="80"/>
-<img src="https://github.com/user-attachments/assets/b9448e77-71ad-4e6b-a387-618f1cf171de" alt="star" width="50"/>
-<img src="https://github.com/user-attachments/assets/a13276b0-272b-4de5-b1e0-2f2a4f7fe915" alt="kurby" width="200"/>
-<img src="https://github.com/user-attachments/assets/b9448e77-71ad-4e6b-a387-618f1cf171de" alt="star" width="50"/>
-<img src="https://github.com/user-attachments/assets/b9448e77-71ad-4e6b-a387-618f1cf171de" alt="star" width="80"/>
+   <img src="https://readme-typing-svg.herokuapp.com?font=Nunito&weight=600&size=20&duration=3000&pause=800&color=000000&center=true&vCenter=true&width=450&lines=Welcome+to+Soyun's+Star+World!;Frontend+Adventures+Continue...;I+love+%E2%9C%A8+Coding+%E2%9C%A8+and+🌸+Design+🌸"/>
 </div>
-
-
-
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Nunito&weight=600&size=20&duration=3000&pause=800&color=000000&center=true&vCenter=true&width=450&lines=Welcome+to+Soyun's+Star+World!;Frontend+Adventures+Continue...;I+love+%E2%9C%A8+Coding+%E2%9C%A8+and+🌸+Design+🌸"/>
-</p>
 
 
 
