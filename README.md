@@ -1,7 +1,7 @@
 <!-- README.md -->
 
 <div align="center">
-   <img src="https://readme-typing-svg.herokuapp.com?font=Nunito&weight=600&size=20&duration=3000&pause=800&color=000000&center=true&vCenter=true&width=450&lines=Welcome+to+Soyun's+Star+World!;Frontend+Adventures+Continue...;I+love+%E2%9C%A8+Coding+%E2%9C%A8+and+🌸+Design+🌸"/>
+   <img src="https://readme-typing-svg.herokuapp.com?font=Nunito&weight=600&size=20&duration=3000&pause=800&color=000000&center=true&vCenter=true&width=450&lines=Welcome+to+Soyun's+Star+World!;I+love+%E2%9C%A8+Coding+%E2%9C%A8+and++Designing"/>
 </div>
 
 
