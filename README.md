@@ -11,8 +11,3 @@
 
 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=soyuniii&show_icons=true&theme=omni&hide_border=true&bg_color=ffecf2&title_color=ff4d94&icon_color=ff66b2&text_color=444" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soyuniii&layout=compact&theme=omni&hide_border=true&bg_color=ffecf2&title_color=ff4d94&icon_color=ff66b2&text_color=444" height="160"/>
-</p>
-
