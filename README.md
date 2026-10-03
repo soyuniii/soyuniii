@@ -2,10 +2,10 @@
 <p align="center">
   <sub>WELCOME TO</sub>
 </p>
-<h2 align="center">
+<h1 align="center">
   SOYUN'S SPACE
-</h2>
-<p align="center"><img src="./assets/rainbow.jpeg" alt="" width="40%"></p>
+</h1>
+<p align="center"><img src="./assets/rainbow.jpeg" alt="" width="30%"></p>
 
 <p align="center">
   <b>Software Engineer</b> · Frontend Development<br>
